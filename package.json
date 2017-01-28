@@ -18,6 +18,8 @@
   "homepage": "https://github.com/au5ton/node-gradespeed#readme",
   "dependencies": {
     "au5ton-logger": "^1.1.2",
-    "request": "^2.79.0"
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "ssl-root-cas": "^1.2.3"
   }
 }
