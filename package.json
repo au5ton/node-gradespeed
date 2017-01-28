@@ -1,6 +1,6 @@
 {
   "name": "node-gradespeed",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "npm module for interacting with GradeSpeed",
   "main": "index.js",
   "scripts": {
